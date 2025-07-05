@@ -6,7 +6,7 @@ a space-themed "Suika Game" clone made in PICO-8! drop planets to merge them int
 
 ### play the game
 
-**[click here to play cosmic cascade](cosmic_cascade_v1.html)**
+**[click here to play cosmic cascade](cosmic_cascade_v1.p8.png)**
 
 ### how to play
 
