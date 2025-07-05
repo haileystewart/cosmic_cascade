@@ -43,7 +43,7 @@ mercury → venus → earth → mars → jupiter → saturn → uranus → neptu
 ## files
 
 - `cosmic_cascade_v1.html` - playable web version
-- `cosmic_cascade.p8` - PICO-8 cart file
+- `cosmic_cascade.p8.png` - PICO-8 cart file
 - source code split across multiple tabs:
   - `main.p8` - core game loop
   - `physics.p8` - planet physics and collisions  
