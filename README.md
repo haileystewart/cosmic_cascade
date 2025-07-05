@@ -2,7 +2,7 @@
 
 a space-themed "Suika Game" clone made in PICO-8! drop planets to merge them into larger celestial bodies, working your way up to creating the sun!
 
-(cosmic_cascade_v1.png)
+![cosmic cascade menu](cosmic_cascade_v1.png)
 
 ### play the game
 
