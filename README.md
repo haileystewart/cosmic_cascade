@@ -33,7 +33,7 @@ mercury → venus → earth → mars → jupiter → saturn → uranus → neptu
 - **high score tracking**
 - **space-themed background** with moving stars and cosmic dust
 
-### built With
+### built with
 
 - **PICO-8** fantasy console
 - **Lua** programming language
